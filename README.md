@@ -3,7 +3,7 @@
 
 ---
 ### Categories
-- Java
-- Node.js
-- Python
-- Ruby
+* Java
+* Node.js
+* Python
+* Ruby
