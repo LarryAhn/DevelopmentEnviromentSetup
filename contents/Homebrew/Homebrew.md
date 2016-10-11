@@ -6,4 +6,4 @@
 ```
 
 ### Reference
-> http://brew.sh/index_ko.html
+- http://brew.sh/index_ko.html
