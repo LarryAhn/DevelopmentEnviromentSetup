@@ -10,3 +10,4 @@
 
 ### Contents
 - [Homebrew](contents/Homebrew/Homebrew.md)
+- [Redis](contents/Redis/Redis.md)
