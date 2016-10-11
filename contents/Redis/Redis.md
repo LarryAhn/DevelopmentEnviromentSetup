@@ -8,6 +8,7 @@ $ cd redis-3.2.4
 $ make
 ```
 > Run
+
 ```
 $ src/redis-server
 ```
@@ -15,10 +16,12 @@ $ src/redis-server
 ---
 ### Homebrew 를 통한 Redis 설치
 > [Homebrew 설치바로가기](../Homebrew/Homebrew.md)
+
 ```
 $ brew install redis
 $ redis-server
 ```
+
 Launch Redis on computer starts.
 ```
 $ ln -sfv /usr/local/opt/redis/*.plist ~/Library/LaunchAgents
