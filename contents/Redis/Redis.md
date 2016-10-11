@@ -11,8 +11,8 @@ $ make
 ```
 $ src/redis-server
 ```
----
 
+---
 ### Homebrew 를 통한 Redis 설치
 > [Homebrew 설치바로가기](../Homebrew/Homebrew.md)
 ```
