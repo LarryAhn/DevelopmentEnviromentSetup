@@ -1,5 +1,5 @@
 # :computer: Development Enviroment Setup
-> 개발 환경 셋업
+> :computer: 개발 환경 셋업
 
 ---
 ### Categories
