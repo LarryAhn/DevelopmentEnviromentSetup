@@ -11,3 +11,4 @@
 ### Contents
 - [Homebrew](contents/Homebrew/Homebrew.md)
 - [Redis](contents/Redis/Redis.md)
+- [Scala](contents/Scala/Scala.md)
