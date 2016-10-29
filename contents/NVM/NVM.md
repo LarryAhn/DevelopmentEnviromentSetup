@@ -8,6 +8,7 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | b
 
 > Install 과정을 진행하고 나면 $HOME 에 .nvm 디렉토리가 생성이 되고  
   $HOME/.bash_profile (macOS) / $HOME/.bashrc (linux)에 다음과 같은 환경설정 변수가 추가가 된다.
+
 ```
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm
