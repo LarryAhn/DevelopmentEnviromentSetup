@@ -9,6 +9,7 @@
 * Ruby
 
 ### Contents
+- [Gradle](contents/Gradle/Gradle.md)
 - [Homebrew](contents/Homebrew/Homebrew.md)
 - [MongoDB](contents/MongoDB/MongoDB.md)
 - [NVM](contents/NVM/NVM.md)
