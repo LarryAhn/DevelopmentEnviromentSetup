@@ -25,5 +25,5 @@ $ chsh -s `which zsh`
 > Install oh-my-zsh
 
 ```
-$ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
