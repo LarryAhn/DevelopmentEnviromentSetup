@@ -13,7 +13,7 @@
 - [Homebrew](contents/Homebrew/Homebrew.md)
 - [MongoDB](contents/MongoDB/MongoDB.md)
 - [NVM](contents/NVM/NVM.md)
-- [oh-my-zsh](contents/oh-my-zash/oh-my-zash.md)
+- [oh-my-zsh](contents/oh-my-zsh/oh-my-zsh.md)
 - [Redis](contents/Redis/Redis.md)
 - [RethinkDB](contents/RethinkDB/RethinkDB.md)
 - [Scala](contents/Scala/Scala.md)
