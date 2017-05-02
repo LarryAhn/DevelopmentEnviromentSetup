@@ -17,3 +17,6 @@
 - [Redis](contents/Redis/Redis.md)
 - [RethinkDB](contents/RethinkDB/RethinkDB.md)
 - [Scala](contents/Scala/Scala.md)
+
+### Ubuntu
+- [Python3 Install on Ubuntu Linux](contents/Ubuntu/Python3/Python3.md)
